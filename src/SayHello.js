@@ -6,7 +6,7 @@ function SayHello() {
   return (
     <div>
       <p>안녕</p>
-      <span>메롱</span>
+      <span>멍멍</span>
     </div>
   );
 }
